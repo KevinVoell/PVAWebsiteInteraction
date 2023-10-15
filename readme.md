@@ -1,7 +1,7 @@
 
 # PVA Website Interaction
 
-An example website that demonstrates how to create a deeply interactive website experience from Microsoft Power Virtual Agents.  Shows how you can capture events sent from Microsoft Power Virutal Agents and use that information to interact with elements on a website.
+An example website that demonstrates how to create a deeply interactive website experience from Microsoft Power Virtual Agents.  Shows how you can capture events sent from Microsoft Power Virtual Agents and use that information to interact with elements on a website.
 
 
 ## Demo
